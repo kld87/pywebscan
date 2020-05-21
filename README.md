@@ -10,7 +10,7 @@ See the top of the script for additional tuning capabilities.
 
 ## reference
 
-Writeup and additional information available in the associated [Medium post](https://medium.com/@KevinDawe)
+Writeup and additional information available in the associated [Medium post](https://levelup.gitconnected.com/how-to-create-a-threaded-web-scanner-in-python-de954d31b042?source=friends_link&sk=888874fe3ca30b267e6699a9c9d5d458)
 
 ## license
 
